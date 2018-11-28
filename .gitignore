@@ -1,0 +1,12 @@
+terraform
+terraform-provider-aws_v1.40.0-6-gb23683732_x4
+terraform-provider-azurerm_v1.17.0-5-ga3b48ba3_x4
+terraform-provider-google_v1.19.1-4-gf3de5334_x4
+terraform-provider-local_v1.1.0-5-ga2df742_x4
+terraform-provider-null_v1.0.0-5-gf54ff98_x4
+terraform-provider-random_v2.0.0-5-g612dff2_x4
+terraform-provider-template_v1.0.0-5-g317c9c9_x4
+terraform.tfstate
+terraform_0.12.0-alpha2_darwin_amd64.zip
+.terraform
+prod.tfvars
