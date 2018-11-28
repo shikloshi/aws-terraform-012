@@ -1,7 +1,7 @@
 # aws-terraform-012
 AWS examples for terraform 0.12
 
-Playing with terraform-0.12-alpha* and AWS provider to test some `HCL2` features 
+Playing with `terraform-0.12-alpha*` and AWS provider to test some `HCL2` features presented at [this Hashiconf 18 talk](https://www.youtube.com/watch?v=U1kSAELCBDw&list=PL81sUbsFNc5ZzhVxTZJqeHG24iwzKL0ei&index=29).
 
 ### Download
 
